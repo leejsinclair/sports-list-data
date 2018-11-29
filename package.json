@@ -1,0 +1,23 @@
+{
+  "name": "sports-list-data",
+  "version": "1.0.0",
+  "description": "List of sports from WikiPedia",
+  "main": "sports.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leejsinclair/sports-list-data.git"
+  },
+  "keywords": [
+    "sports",
+    "data"
+  ],
+  "author": "Lee Sinclair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leejsinclair/sports-list-data/issues"
+  },
+  "homepage": "https://github.com/leejsinclair/sports-list-data#readme"
+}
